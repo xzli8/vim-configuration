@@ -1,5 +1,5 @@
 # vim-configuration
-##各文件说明：
+## 各文件说明：
 
 .vimrc ： 本人自己编写的vim配置文件
 
