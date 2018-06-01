@@ -1,0 +1,30 @@
+
+#******************************************************************************#
+#*                                                                            *#
+#*                                vim-configuration                           *#
+#*                           =========================                        *#
+#*                                                                            *#
+#*                        The vimscript Program Package                       *#
+#*                       for configuration of vim editor                      *#
+#*                                                                            *#
+#*                                Xingzhong Li                                *#
+#*                       email: xzli8@mail.ustc.edu.cn                        *#
+#*                  Geophysics Department, USTC, China, 2017                  *#
+#*                                                                            *#
+#*     A signed non-commercial agreement is required to use this program.     *#
+#*             Free for non-commercial academic research ONLY.                *#
+#*       This program is distributed WITHOUT ANY WARRANTY whatsoever.         *#
+#*       Do not redistribute this program without written permission.         *#
+#*                                                                            *#
+#******************************************************************************#
+
+1. Introduction
+    This program helps you to configure your vim editor, in order to having a good using experience.
+    
+2. Directory layout
+    ./script : vim script file (.vimrc)
+    readme : this file
+    
+3. Usage
+    copy file ".vimrc" in ./script directory to your ./home directory
+    follow the instruction of this website : https://blog.csdn.net/xzli8_geo/article/details/78779991
