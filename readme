@@ -26,5 +26,8 @@
     readme : this file
     
 3. Usage
-    copy file ".vimrc" in ./script directory to your ./home directory
-    follow the instruction of this website : https://blog.csdn.net/xzli8_geo/article/details/78779991
+    copy file ".vimrc" in ./script directory to your ./home directory.
+    follow the instruction of the following reference website. 
+
+4. Reference website
+    https://blog.csdn.net/xzli8_geo/article/details/78779991
